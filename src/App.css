@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(240, 67, 67);
+}
+
+* {
+  font-size: 112%;
+}
+
+span {
+  color: aliceblue;
+  font-size: 55px;
+  
+}
+
+.nav a {
+  color: white;
+  margin: 5%;
+  text-decoration: none;
+}
+
